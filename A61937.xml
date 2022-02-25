@@ -1,0 +1,951 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alex. Van Suchten Of the secrets of antimony in two treatises. Translated out of high-Dutch by Dr. C. a person of great skill in chymistry. To which is added B. Valentine's salt of antimony, with its use.</title>
+            <title>De secretis antimonii. English</title>
+            <author>Suchten, Alexander von, ca. 1520-ca. 1590.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 67 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61937</idno>
+            <idno type="STC">Wing S6117</idno>
+            <idno type="STC">ESTC R218852</idno>
+            <idno type="EEBO-CITATION">99830409</idno>
+            <idno type="PROQUEST">99830409</idno>
+            <idno type="VID">34860</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2022:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Alex. Van Suchten Of the secrets of antimony in two treatises. Translated out of high-Dutch by Dr. C. a person of great skill in chymistry. To which is added B. Valentine's salt of antimony, with its use.</title>
+                  <title>De secretis antimonii. English</title>
+                  <author>Suchten, Alexander von, ca. 1520-ca. 1590.</author>
+                  <author>Basilius Valentinus. Haligraphia de præparatione. aut</author>
+                  <author>Cable, Daniel.</author>
+               </titleStmt>
+               <extent>[8], 122, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Moses Pitt at the White Hart in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With cancel title page.</note>
+                  <note>"Alfx. Van Suchten Of antimony vulgar. The second treatise." has separate dated title page; pagination and register are continuous.</note>
+                  <note>Caption title on p. 115: Addition out of the Haligraphia of Basil Valentine.</note>
+                  <note>Running title: Suchten of antimony.</note>
+                  <note>A translation by Daniel Cable of Suchten, Alexander Van. De secretis antimonii.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Antimony --  Therapeutic use --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:34860:1" rendition="simple:additions"/>
+                  <p>ALEX. Van SUCHTEN OF THE SECRETS OF <hi>ANTIMONY:</hi> IN TWO TREATISES.</p>
+                  <p>Tranſlated out of <hi>High-Dutch</hi> by Dr. <hi>C.</hi> a Perſon of great Skill in Chymiſtry.</p>
+                  <p>To which is added <hi>B. Valentine</hi>'s Salt of <hi>Antimony,</hi> with its Uſe.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Moſes Pitt</hi> at the <hi>White Hart</hi> in <hi>Little Britain,</hi> 1670.</p>
+                  <pb facs="tcp:34860:2"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb facs="tcp:34860:2"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb facs="tcp:34860:3"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb facs="tcp:34860:3"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb facs="tcp:34860:4"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:34860:4"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:34860:5"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:34860:5"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:34860:6"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:34860:6"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:34860:7"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:34860:7"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:34860:8"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:34860:8"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:34860:9"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:34860:9"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:34860:10"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:34860:10"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:34860:11"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:34860:11"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:34860:12"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:34860:12"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:34860:13"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:34860:13"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:34860:14"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:34860:14"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:34860:15"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:34860:15"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:34860:16"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="25" facs="tcp:34860:16"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="26" facs="tcp:34860:17"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="27" facs="tcp:34860:17"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="28" facs="tcp:34860:18"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:34860:18"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="30" facs="tcp:34860:19"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="31" facs="tcp:34860:19"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="32" facs="tcp:34860:20"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="33" facs="tcp:34860:20"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="34" facs="tcp:34860:21"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:34860:21"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="36" facs="tcp:34860:22"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="37" facs="tcp:34860:22"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="38" facs="tcp:34860:23"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="39" facs="tcp:34860:23"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="40" facs="tcp:34860:24"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="41" facs="tcp:34860:24"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="42" facs="tcp:34860:25"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="43" facs="tcp:34860:25"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="44" facs="tcp:34860:26"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="45" facs="tcp:34860:26"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="46" facs="tcp:34860:27"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="47" facs="tcp:34860:27"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="48" facs="tcp:34860:28"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="49" facs="tcp:34860:28"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="50" facs="tcp:34860:29"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:34860:29"/>
+                  <gap reason="intruder" extent="1 page">
+                     <desc>〈1 page inserted from a different book〉</desc>
+                  </gap>
+               </div>
+            </front>
+            <body>
+               <div n="1" type="treatise">
+                  <pb n="50" facs="tcp:34860:30"/>
+                  <gap reason="missing" extent="49 pages">
+                     <desc>〈49 pages missing〉</desc>
+                  </gap>
+                  <div n="5" type="chapter">
+                     <head>
+                        <hi>CHAP. V.</hi> What beſides a Phyſician ought to know before he u<g ref="char:EOLhyphen"/>ſeth the Gold of the Phy<g ref="char:EOLhyphen"/>ſician or 🜍 <hi>Philoſophor.</hi>
+                     </head>
+                     <p>I Acknowledge that in the for<g ref="char:EOLhyphen"/>mer Chapters I have ſaid too little of the 🜔, but the form of <g ref="char:Moon">☽</g> ſtood in the way, that I durſt not make farther mention there<g ref="char:EOLhyphen"/>of; for if I ſhould ſpeak what were to be ſpoken of it, I muſt alſo plainly deſcribe the form, which ought not to be done. Now have I handled nothing in this Treatiſe by Similitudes; but as the thing is in it ſelf, ſo have I deſcribed it: But the Form be<g ref="char:EOLhyphen"/>longs
+<pb n="51" facs="tcp:34860:30"/> not to the Phyſician, but to the Mineraliſt, who may find e<g ref="char:EOLhyphen"/>nough written thereof in <hi>Peter Bonus Ferarienſis.</hi> Therefore is <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> ſufficiently declared, and as ye ſee after the ſimpleſt manner, that none can exclaim againſt me, and ſay that I write ſo obſcurely, that I cannot be underſtood. To con<g ref="char:EOLhyphen"/>clude, I warn every man that un<g ref="char:EOLhyphen"/>derſtands me not, that he go not about to make what I teach; for <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> is not for him; but a Secret of God above his underſtanding: But he that underſtandeth me, will without doubt put his hope in God, and accompliſh what I write. The ſame ſhall even know that he hath not therefore found the Medicine wholly, but only begun to learn it; for what is it to have a good Sword in ones hand, if one know not how to draw it forth againſt our enemy;
+<pb n="52" facs="tcp:34860:31"/> we muſt therefore firſt know how to uſe it; ſo the Phyſician alſo though he hath 🜍 <hi>Philoſ.</hi> in his hand, and knoweth not the uſe, what profiteth it? The knowledg of adminiſtring it requireth a ve<g ref="char:EOLhyphen"/>ry expert Phyſician; not from the reading of <hi>Galen;</hi> but from the knowledge of the <hi>Microcoſme;</hi> therefore it is neceſſary to write diligently of the uſe of this Se<g ref="char:EOLhyphen"/>cret, which I ſhall (if God give life and opportunity) ſpeedily do, and not keep it from you; yet thus much will I here manifeſt to you, that that 🜍 cannot be dige<g ref="char:EOLhyphen"/>ſted in, our ſtomach; but if it be not digeſted, it's not the Phyſick it ſhould be; for after digeſtion virtue goeth out of him, and not before. Mankind hath a gift that is from God, <hi>Paracelſus</hi> calleth it <hi>Archeus;</hi> the office of this <hi>Arche<g ref="char:EOLhyphen"/>us</hi> is to make mans fleſh out of
+<pb n="53" facs="tcp:34860:31"/> Bread, and bloud out of Wine; and what man wanteth, that it maketh out of the Aliment: Now we find that man is not the Me<g ref="char:EOLhyphen"/>dicine, therefore cannot the <hi>Ar<g ref="char:EOLhyphen"/>cheus</hi> out of 🜍 or ☉ make the Medicine; ſo it followeth from hence that there muſt be uſed a<g ref="char:EOLhyphen"/>nother <hi>Archeus,</hi> that this dige<g ref="char:EOLhyphen"/>ſtion may be accompliſhed, <hi>Para<g ref="char:EOLhyphen"/>celſus</hi> in his Book <hi>De</hi> 🜿, menti<g ref="char:EOLhyphen"/>oneth this Digeſtion, how our Stomach is comforted, and ſaith this <hi>Arcanum</hi> is <gap reason="symbol" extent="1 letter">
+                           <desc>〈☐〉</desc>
+                        </gap>, which is true, but it is a Speech too ſub<g ref="char:EOLhyphen"/>tile and ſhort for your young Phyſicians: Let no Man be ſo ſenſeleſs, as to perſwade him<g ref="char:EOLhyphen"/>ſelf, that this Medicine is to be obtained by the bare letters of <hi>Paracelſus.</hi> This ſay I, that he hath a great ſecret who knows to perfect this digeſtion in Man; no ordinary Phyſician ſhall know
+<pb n="54" facs="tcp:34860:32"/> it, for very much belongeth to it; therefore let every one, who by diligent Labour and Opera<g ref="char:EOLhyphen"/>tions hath obtained this 🜍, not abuſe this gift of God, leſt he get more ſhame and ſcorn than honour amongſt the ſick. I could, if it were convenient, in few words declare this digeſtion, and annex it to this Treatiſe; but it is not convenient, by reaſon of many ſecrets which depend there<g ref="char:EOLhyphen"/>on; wherefore this Treatiſe ſhall be only of the Preparation of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> concerning the Uſe, I will write another Treatiſe; by the which, ye ſhall underſtand what <hi>Para<g ref="char:EOLhyphen"/>celſus</hi> hath written <hi>De Arcanis &amp; Elixiribus,</hi> in his <hi>Archidoxes.</hi> That I write no Receipts in this Book, is, becauſe I will not ſeduce you, for Receipts are Deceipts to the young Phyſicians. Further, there is no Receipt in <hi>Paracelſus</hi> con<g ref="char:EOLhyphen"/>cerning
+<pb n="55" facs="tcp:34860:32"/> Secrets in Phyſick, which hath not an occult ſenſe, and hath either too much or too lit<g ref="char:EOLhyphen"/>tle; and this is done, not with<g ref="char:EOLhyphen"/>out great reaſon.</p>
+                     <p>So hath this Treatiſe of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> an end; in which we have ſpoken, <hi>What</hi> 
+                        <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> 
+                        <hi>is,</hi> in the firſt Chapter; in the ſecond, <hi>How</hi> Mercury <hi>is made out of it;</hi> in the third, <hi>How it muſt be regenerated by Heaven;</hi> in the fourth, <hi>How out of</hi> Luna <hi>Phyſical</hi> Sol <hi>must be made;</hi> in the fifth, <hi>What is further neceſſary for a Phyſician to know e're he uſe this Gold?</hi> So much have I under<g ref="char:EOLhyphen"/>taken to write of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> for the young Phyſicians ſake, who know not what <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> is, that they may not be ſeduced by the <hi>Galeniſis,</hi> who are not aſhamed to write of this Mineral that which they never experimented; what I write, I know that it is true, and this
+<pb n="56" facs="tcp:34860:33"/> Work hath not once only gone through my hands, and I know it much better than the Shoo<g ref="char:EOLhyphen"/>maker his Laſt: Wherefore then may I not write what is true?</p>
+                     <p>Although the Devil be never ſo black and baſe, yet in this he cannot bite me: Phyſick con<g ref="char:EOLhyphen"/>cerneth the Body and the Life, he that writeth any thing there<g ref="char:EOLhyphen"/>of, which he cannot prove by his practice, is a Murtherer: For then ſhall the <hi>Galeniſts</hi> eſcape, whether will they go? There<g ref="char:EOLhyphen"/>fore, Reader, if you will take pains, apply thy ſelf to this way as to a firm Rock which is un<g ref="char:EOLhyphen"/>movable; yet I pray thee that thou attempt not this Work <hi>Illo<g ref="char:EOLhyphen"/>tis manibus,</hi> that is, if you un<g ref="char:EOLhyphen"/>derſtand it not, it belongeth not to you: Ye young <hi>Paracelſeans,</hi> I will alſo admoniſh you, Do not as the contrary part doth, diſ<g ref="char:EOLhyphen"/>pute
+<pb n="57" facs="tcp:34860:33"/> not much of Phyſick in your Prefaces, and defend your Maſters not only with words, but alſo by your practice; by your words, you will as ſoon win the <hi>Galenists,</hi> as the Apo<g ref="char:EOLhyphen"/>ſtles did the Heathen by Preach<g ref="char:EOLhyphen"/>ing. Works do all; ye muſt therefore work; ſo much as ye perform by Works, ſo much ye are to be called <hi>Paracelſi<g ref="char:EOLhyphen"/>ans:</hi> Be diligent and careful, for not every one that glorieth that he is of <hi>Paracelſus,</hi> can do <hi>Paracelſus</hi> Works; keep your ſelves from undigeſted Wri<g ref="char:EOLhyphen"/>tings; the Roſe hath time for its growth; when your time is come, help the Truth by Words and Works; ſo ſhall you tryumph over your Enemies, as <hi>Theophrastus</hi> did in his life time. Thus I conclude this Treatiſe. Expect a better.</p>
+                     <pb n="58" facs="tcp:34860:34"/>
+                     <p>This have I written in <hi>Dutch,</hi> that Artificers, Mechanicks, Yeo<g ref="char:EOLhyphen"/>men, who buy <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> and work on it, may know, that they do ill to meddle with that which they underſtand not.</p>
+                  </div>
+                  <trailer>The End of the firſt Treatiſe.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:34860:34"/>
+                  <p>ALFX. Van SUCHTEN OF <hi>ANTIMONY</hi> VULGAR.</p>
+                  <p>The SECOND TREATISE.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Moſes Pitt</hi> at the <hi>White Hart</hi> in <hi>Little Britain,</hi> 1670.</p>
+               </div>
+            </front>
+            <body>
+               <div n="2" type="treatise">
+                  <pb facs="tcp:34860:35"/>
+                  <pb n="61" facs="tcp:34860:35"/>
+                  <head>
+                     <hi>To the Honourable</hi> John Baptiſta Van Seebach.</head>
+                  <opener>
+                     <salute>Noble Sir,</salute>
+                  </opener>
+                  <p>MY Honourable Patron, and good Friend, my humble Service in the firſt place preſent<g ref="char:EOLhyphen"/>ed to you: At your earneſt Re<g ref="char:EOLhyphen"/>queſt I cannot but accompliſh your deſires, ſeeing you have a great love and and affection, by experience to find out the Secrets of Nature, which at this time are known to few, and even whol<g ref="char:EOLhyphen"/>ly hid in darkneſs. Although many of the Ancients have written thereof, and their Books diſperſ<g ref="char:EOLhyphen"/>ed, yet are they written in a Ma<g ref="char:EOLhyphen"/>gick
+<pb n="62" facs="tcp:34860:36"/> ſtile, and profitable to none but thoſe who from their youth have been trained up in the Ma<g ref="char:EOLhyphen"/>gick, or inſtructed by God in ſuch Secrets. Therefore the Se<g ref="char:EOLhyphen"/>crets for which you humble your ſelf are in a deep pit, ſtrongly locked up, ſo that no man can o<g ref="char:EOLhyphen"/>pen them unleſs he have received the Key from the Spirit of Truth. Of the Magical <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, or of that <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> of the Ancients will I ſpeak no<g ref="char:EOLhyphen"/>thing in this Treatiſe, ſeeing that men will know nothing of it; but what they read of it they apply only to common <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>; of the which you only deſire a Treatiſe, which I will freely communicate to you, and will write, 1. What it is. 2. Of what parts it is compound<g ref="char:EOLhyphen"/>ed. 3. Into what it may be re<g ref="char:EOLhyphen"/>ſolved again.</p>
+                  <p>And you ſhall in this Treatiſe underſtand me no otherwiſe than
+<pb n="63" facs="tcp:34860:36" rendition="simple:additions"/> according to the Letter; for I will uſe here no Metaphors, Alle<g ref="char:EOLhyphen"/>gories, or Similitudes; only I will deſcribe <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> with a plain ſtile, that you may not be deceived, though you prepare it according to the Letter, and ye ſhall ob<g ref="char:EOLhyphen"/>tain that of which I write; by theſe you may alſo judge whe<g ref="char:EOLhyphen"/>ther in common <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> that ſecret, or Chymical &amp; Phyſical Myſtery be or not, of the which <hi>Paracelſus</hi> and the <hi>Magicians</hi> have writ<g ref="char:EOLhyphen"/>ten.</p>
+                  <p>Now <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> as it cometh out of the Mountains, is not pure as it ſhould be; for it is mingled with Stones of the Mine. I never ſaw any that came forth pure from the Mountains; therefore ere one uſe it, it muſt be purified, which purification is done by di<g ref="char:EOLhyphen"/>geſtion; but this digeſtion is a ſulphureous Fire. The beſt 🜍
+<pb n="64" facs="tcp:34860:37" rendition="simple:additions"/> is a 🜍 Metalline, and although Artiſts do purifie it with the ve<g ref="char:EOLhyphen"/>getable fire, that is with <hi>Tartar,</hi> yet is this digeſtion not natural, But that the <hi>Tartar</hi> divideth the <hi>Regulus</hi> from its <hi>Faeces,</hi> this is the cauſe that the 🜍 of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> is more Vegetable than Metalline; but you ſhall purifie it with 🜍 that is ſprung from <hi>Mercury,</hi> and not from Salts; for this Metalline 🜍 will be reduced in the <hi>Arg. vive</hi> of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> into <hi>Arg. vive,</hi> and laſtly, out of this <hi>Arg. vive</hi> will pure Gold be made. Now this Me<g ref="char:EOLhyphen"/>talline 🜍 that purifieth <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> is only in ♂, &amp; no where elſe, &amp; this puri<g ref="char:EOLhyphen"/>fication is done thus; R. ♂ or Iron ℥ 4 (I am wont to take pieces of Nails which are neither groſs nor thick) put them into a ſtrong Crucible, and ſet them in a wind Furnace, let it ſtand ſo long till
+<pb n="65" facs="tcp:34860:37" rendition="simple:additions"/> you ſee the Nails or Iron are ſoft, then put into the Crucible ℥ 8. of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, make a ſtrong fire that the ♂ may flow well in the <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, then caſt into the Crucible with an I<g ref="char:EOLhyphen"/>ron Ladle a good handful of Salt-petre; let them boil up together in the Crucible (let the Crucible therefore be conſiderably great, that it boil not out) and let it ſtand till all be quiet and flowing, then caſt it forth into a caſting-pot, ſo the <hi>Regulus</hi> ſetleth it ſelf. So ſoon as the matter is coagula<g ref="char:EOLhyphen"/>ted in the Puckle-pot, put it out, and let it cool, and ſtrike the <hi>Faeces</hi> from the <hi>Regulus,</hi> which appeareth &amp; ſhineth like a Mar<g ref="char:EOLhyphen"/>chaſite: The <hi>Faeces</hi> you may lay up till you know what to do with it; for in it is a Myſtery, of which I will not ſpeak at this time. Put the <hi>Regulus</hi> into a Crucible a<g ref="char:EOLhyphen"/>gain, and let it flow; when it
+<pb n="66" facs="tcp:34860:38" rendition="simple:additions"/> floweth, then caſt therein one ℥ and ½ of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, &amp; let them flow well to gether, then put in it as much <hi>Nitre</hi> as you did before, let it flow as ye did at the firſt time, caſt it into the Puckle, ſtrike the Regulus off from the <hi>Faeces,</hi> this Regulus is purer &amp; finer than the firſt, caſt away the <hi>Faeces,</hi> for they are nothing worth, let this Re<g ref="char:EOLhyphen"/>gulus melt the third time in a Crucible, and when it floweth, poure thereon a Ladle full of <hi>Nitre,</hi> and when you ſee that the <hi>Nitre</hi> floweth on the Metal as an Oyl (which muſt be done with a ſtrong fire, otherwiſe the <hi>Ni<g ref="char:EOLhyphen"/>tre</hi> coagulateth it ſelf, and will be hard) then caſt it into a Puc<g ref="char:EOLhyphen"/>kle, ſtrike the Regulus from the <hi>Faeces;</hi> this Regulus is yet finer, purer and more Metalline than the former; the <hi>Faeces</hi> are no<g ref="char:EOLhyphen"/>thing worth. Fourthly, let this
+<pb n="67" facs="tcp:34860:38" rendition="simple:additions"/> Regulus melt in a clean Crucible, and when it is melted as pure <g ref="char:Moon">☽</g>, caſt ſome <hi>Nitre</hi> thereon, let it penetrate through each other, &amp; then caſt it into a Puckle, beat the <hi>Faeces</hi> off from the Regulus, which <hi>Faeces</hi> will be of a golden colour, and then it is prepared. The Regulus will be white as <g ref="char:Moon">☽</g>, and have above a fine Star; this Regulus if it be rightly wrought, will weigh four Ounces, and the work may well be finiſhed in two hours (ſome Copies ſay twelve hours) and in this manner is com<g ref="char:EOLhyphen"/>mon <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> prepared, wherein you ſhall mark this piece, <hi>viz.</hi> what it is that thus divideth the <hi>Faeces</hi> from the <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, you ſhall not think that <hi>Nitre</hi> doth it; but<note n="*" place="margin">
+                        <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> draw<g ref="char:EOLhyphen"/>eth forth the ſoul of ♂, and re<g ref="char:EOLhyphen"/>duceth the ſame into ☿, and this ☿ is no<g ref="char:EOLhyphen"/>thing elſe but fire.</note> know that <hi>Antimony</hi> draweth forth the ſoul from ♂, that is, his beſt 🜍, and reduceth the ſame into ☿; this ☿ is nothing elſe but fire, and hath
+<pb n="68" facs="tcp:34860:39" rendition="simple:additions"/> the operation of fire, which di<g ref="char:EOLhyphen"/>geſteth the crude ☿ into <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, and divideth the Mine from the Me<g ref="char:EOLhyphen"/>tal; you ſhall alſo know that this ☿ of ♂ is hid in this purged <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, under the whiteneſs of <hi>Antimoni<g ref="char:EOLhyphen"/>al Mercury;</hi> for this <hi>Lunary</hi> white<g ref="char:EOLhyphen"/>neſs which you ſee in this Regu<g ref="char:EOLhyphen"/>lus is not from his 🜍, but from <hi>Arg. vive,</hi> under which lurketh<note n="*" place="margin">This ☿ <hi>Martis</hi> is ☉, and a Spirit, or Air, and remaineth in ☿ till it be made a body, that is ☉.</note> 
+                     <hi>Mercury</hi> of <hi>Mars,</hi> which is nothing elſe than <hi>Sol:</hi> this ☿ of <hi>Mars</hi> is al<g ref="char:EOLhyphen"/>ſo nothing elſe in the aforeſaid ☿ of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> than as a Spirit or an Air, and remaineth ſo long living in the <hi>Arg. vive</hi> of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, till out of it be made a body again, that is 🜔, and then divideth it ſelf from the ☿ of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>.</p>
+                  <p>So now you underſtand what that fire is which thus purifieth common <hi>Antimony;</hi> you muſt alſo underſtand what that fire is which purifieth and digeſteth
+<pb n="69" facs="tcp:34860:39" rendition="simple:additions"/> Magical <hi>Antimony,</hi> that is, what that <hi>Sol Philoſophor.</hi> is which we call ☉ <hi>potabile,</hi> which even ſo well divideth it ſelf in the end from ☿ <hi>Philoſophor.</hi> as the ☉ divideth it ſelf from the <hi>Arg. vive</hi> of <hi>An<g ref="char:EOLhyphen"/>timony.</hi> Therefore it is very ne<g ref="char:EOLhyphen"/>ceſſary that you ſeriouſly conſi<g ref="char:EOLhyphen"/>der Nature how it worketh, ſo ſhall you find what Nature is; not only in common Metals, but even in all things, and in the Me<g ref="char:EOLhyphen"/>tals of <hi>Philoſophers,</hi> which are known to the Wiſe men. The Alchymiſts do aſſay <hi>Antimony</hi> by Iron; when they have done this, they know not what they have made, nor the working of Na<g ref="char:EOLhyphen"/>ture; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or do they know what Nature is here: therefore teach they nothing, but remain Fools and Aſſes. Seeing that they now have divided <hi>Antimony</hi> from his Mineral <hi>Faeces,</hi> they ſhould alſo
+<pb n="70" facs="tcp:34860:40" rendition="simple:additions"/> know that in this <hi>Antimony</hi> there is as yet a <hi>Faeces,</hi> which is nothing elſe than a burning 🜍; when this 🜍 is divided, ſo cometh <hi>Antimo<g ref="char:EOLhyphen"/>ny</hi> again into his firſt matter or being, which is nothing elſe but fire; and this fire is nothing elſe but <hi>Arg. vive,</hi> and this <hi>Arg. vive</hi> is created out of the greateſt My<g ref="char:EOLhyphen"/>ſtery of Nature; but <hi>Plato</hi> com<g ref="char:EOLhyphen"/>mandeth me to reſt here. <hi>Vide Nicholas</hi> the <hi>Allobrogian.</hi>
+                  </p>
+                  <p>To divide the 🜍 from the pur<g ref="char:EOLhyphen"/>ged <hi>Antimony</hi> is the clear Ope<g ref="char:EOLhyphen"/>ration, but therein is a great knowledge hidden: So much thereof as is neceſſary for the knowledge of this Work will I manifeſt; but the other for di<g ref="char:EOLhyphen"/>vers Reaſons will I paſs by.</p>
+                  <p>A thing if it be deſtroyed and mortified ſhall be raiſed again, and made living; and the ſame thing which is the cauſe of death
+<pb n="71" facs="tcp:34860:40" rendition="simple:additions"/> by ſeparating the life, muſt have two powers in it, of ſeparating and vivifying; and theſe two muſt be one in power, but two in numbers; for all Myſteries do ſpring from this Fountain, and are one Eſſence, wonderfully di<g ref="char:EOLhyphen"/>ſtributed according to the Will of God; this Will of God is the ſpecifick of every Creature, and a being incomprehenſible by ſenſe not leſs than God. Now is <hi>Arg. vive</hi> dead in <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>. Shall it be made living, ſo muſt it be raiſed up by that which it hath been ere it was dead; for that Life is in it very abundant, and incorruptible; there is nothing which is dead can be made living but by his own and proper life, and not by the life of other things; who writeth and teacheth otherwiſe is no Philoſopher; and the de<g ref="char:EOLhyphen"/>ſtroyed life when it is again made
+<pb n="72" facs="tcp:34860:41"/> living, is the Ferment of the li<g ref="char:EOLhyphen"/>ving things by which it was made living; and that thing is his Aug<g ref="char:EOLhyphen"/>mentation and Multiplication Magical. Hence it followeth that in living things there muſt be a diſpoſition which is tranſmu<g ref="char:EOLhyphen"/>table into the diſpoſition of other things, if it would be raiſed again; for the will of God that all things muſt die, is that Specifick of all Creatures which after death aug<g ref="char:EOLhyphen"/>mented it ſelf infinitely.</p>
+                  <p>Now it followeth farther that thoſe living things which are ſer<g ref="char:EOLhyphen"/>viceable to our work and manu<g ref="char:EOLhyphen"/>al operation, by which the Me<g ref="char:EOLhyphen"/>tals are alſo tranſmuted into <hi>Sol,</hi> muſt alſo have ſuch a Specifick, in that they can be brought thus by no art without Regeneration, as the ſenſeleſs Alchymiſts give forth; for were there no Speci<g ref="char:EOLhyphen"/>fick therein, how could they be
+<pb n="73" facs="tcp:34860:41" rendition="simple:additions"/> tranſmuted, becauſe Species is not tranſmuted into Species; for if tranſmutation be not done, ſo can alſo no ſeed grow and aug<g ref="char:EOLhyphen"/>ment it ſelf; for that is againſt Nature; therefore muſt that li<g ref="char:EOLhyphen"/>ving have the nature of water, as you ſee that a grain of Corn caſt into the Earth is made living by water; that is, in the Grain is a dead water, which is by water made living again, and the Fer<g ref="char:EOLhyphen"/>ment of water is that which gi<g ref="char:EOLhyphen"/>veth the water his ſpecifick Na<g ref="char:EOLhyphen"/>ture, ſo do infinite grains grow from one: So underſtand in this Operation that the <hi>Arg. vive</hi> of <hi>Antimony</hi> ♄ ♃ is dead, and can never more be made living but by <hi>Arg. vive.</hi> In this manner is Corruption regenerated, and Multiplication of the Form of Metals made.</p>
+                  <p>You may here demand, Seeing
+<pb n="74" facs="tcp:34860:42"/> the water multiplieth the grains in the earth, and is tranſmuted into very grains, if alſo the <hi>Arg. vive</hi> of Metals multiplied with common ☿, may be made again into a Metal? To this I anſwer, that this is not poſſible in common Metals, but in Philoſophical Me<g ref="char:EOLhyphen"/>tals it may be done very eaſily; for our <hi>Mercury</hi> layeth his Speci<g ref="char:EOLhyphen"/>fick from him, and taketh it a<g ref="char:EOLhyphen"/>gain by Art; that is, from him may be made <hi>Sol</hi> and <hi>Luna,</hi> which it was before; but why this can<g ref="char:EOLhyphen"/>not be done in common Metals there are many Reaſons, which I will paſs by at this time. Now the <hi>Mercury</hi> of <hi>Antimony</hi> ſhall be living; that is <hi>Arg. vive</hi> ſhall be made <hi>per Arg. vive;</hi> but this cannot be done without mixture; and farther we ſee that <hi>Regulus</hi> will not mingle it ſelf with com<g ref="char:EOLhyphen"/>mon <hi>Arg. vive,</hi> becauſe of the 🜍
+<pb n="75" facs="tcp:34860:42" rendition="simple:additions"/> which is in the <hi>Regulus;</hi> for ſeeing the ſame is not Metal<g ref="char:EOLhyphen"/>line, it hath no communion with the <hi>Arg. vive</hi> that is common, and it hindereth the mixture; therefore muſt there be a <hi>medi<g ref="char:EOLhyphen"/>um</hi> betwixt common <hi>Arg. vive</hi> and the <hi>Mercury</hi> of <hi>Antimony;</hi> and in this <hi>medium</hi> muſt be a ſe<g ref="char:EOLhyphen"/>parative power, which is not in common <hi>arg. vive;</hi> for in it is no ſpecifick; and the ſeparative power is a ſpecifick, which coagu<g ref="char:EOLhyphen"/>lateth <hi>Mercury.</hi> God hath made this <hi>arg. vive</hi> in the will of man, which notwithſtanding is nothing elſe than common <hi>Mercury,</hi> and that of the Philoſophers. Theſe two remain two in the will of man, that he can bring a ſpeci<g ref="char:EOLhyphen"/>fick into them, which is neceſſa<g ref="char:EOLhyphen"/>ry; for there is none there: ac<g ref="char:EOLhyphen"/>cording to theſe things, <hi>viz.</hi> the ſeparative is a ſpecifick <hi>Mercurial;</hi>
+                     <pb n="76" facs="tcp:34860:43" rendition="simple:additions"/> but one muſt know in what <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> it is to be found, and by ex<g ref="char:EOLhyphen"/>perience it is found, that it is in no other <hi>Mercury</hi> than in the <hi>Mercury</hi> of <hi>Luna.</hi> 
+                     <g ref="char:Moon">☽</g>
+                  </p>
+                  <p>Therefore take of <hi>Luna puriſſi<g ref="char:EOLhyphen"/>mae</hi> one ounce, <hi>reguli praedict.</hi> half an ounce, let the <g ref="char:Moon">☽</g> glow well in a Crucible, afterwards caſt the <hi>re<g ref="char:EOLhyphen"/>gulus</hi> on it, ſo will they melt preſently, and ſtand in the Cru<g ref="char:EOLhyphen"/>cible as fine <hi>Arg. vive,</hi> caſt them into an Ingot, and you ſhall find a Maſs metalline of the colour of Lead; beat this metalline maſs to powder, which will eaſily be done. Afterward take of fine <hi>Arg. vive</hi> four or five ounces, pour it in a ſmall Phyal-Glaſs, and then pour the powder on it, let it ſtand a night and day in <hi>B. M.</hi> ſo goeth the powder into <hi>Arg. vive;</hi> ſtir it well together, and when the powder is well mingled
+<pb n="77" facs="tcp:34860:43" rendition="simple:additions"/> with the common <hi>Arg. vive,</hi> then pour it out and amalgam it well on a ſtone, ſo will the Amalgam thereof be red, put this Amal<g ref="char:EOLhyphen"/>gam into a wooden Diſh, pour water thereon, and rub it well with a Peſtel, ſo will the water be black; caſt this water off in part, put more water on, and rub it till this water be black al<g ref="char:EOLhyphen"/>ſo; do this ſo long till the Amal<g ref="char:EOLhyphen"/>gam be made white; the black<g ref="char:EOLhyphen"/>neſs which is waſhed from the A<g ref="char:EOLhyphen"/>malgam ſetleth it ſelf in the bot<g ref="char:EOLhyphen"/>tom of the water, which keep, and caſt the water away; put this Amalgam again into a Phial, let it ſtand in B. a night, pour it out and waſh it again, ſo giveth it a blackneſs again, which pour to the other; waſh it ſo long till it give no more blackneſs; you may alſo grind this Amalgam with pure clean Salt, ſo cometh
+<pb n="78" facs="tcp:34860:44" rendition="simple:additions"/> the blackneſs the ſooner from it: Now when the Amalgam is made clean again, ſet it again in a Phi<g ref="char:EOLhyphen"/>al in B. a night, and waſh it a<g ref="char:EOLhyphen"/>gain; reiterate this work ſo long till no more blackneſs goeth from the Amalgam, then will it be pure, clean, bright, and white; and mark the more blackneſs the Amalgam giveth, the more <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> is reſolved from <hi>Antimony:</hi> So ſoon as no more blackneſs ſheweth<note place="margin">Abſtract &amp; cohobat it 7 or 9 times, then 'tis Philo<g ref="char:EOLhyphen"/>ſoph. ☿</note> it ſelf in waſhing, pre<g ref="char:EOLhyphen"/>ſently then diſtil in a Glaſs retort the <hi>Arg. vive</hi> from <hi>Luna;</hi> if the waſhing be rightly done, ſo ſhall you find your <hi>Luna</hi> bright, clear, and white in the Retort; but if your <hi>Luna</hi> be of a Leaden colour, it is a ſign that it hath as yet ſome <hi>Antimony</hi> amongſt it; therefore muſt this waſhing be done ſo long and oft till no more blackneſ; come forth; the Recipient muſt
+<pb n="79" facs="tcp:34860:44" rendition="simple:additions"/> be full of cold water e're you diſtill the <hi>Mercury</hi> into it, then ſhall you find a bright <hi>Arg. vive,</hi> which now is three-fold, <hi>viz. Arg. vive</hi> Common: <hi>Arg. vive</hi> of <hi>Antimony,</hi> and <hi>Mercury</hi> of <hi>Mars:</hi> This you muſt know, that the <hi>Mercury</hi> of <hi>Mars</hi> tranſmu<g ref="char:EOLhyphen"/>teth not the other two into his Nature, as other Metals do, be<g ref="char:EOLhyphen"/>cauſe <hi>Mercurius Martis</hi> is not u<g ref="char:EOLhyphen"/>niverſally and radically mixed with the other two, but divi<g ref="char:EOLhyphen"/>deth it ſelf from them, as you ſhall hear: Therefore this <hi>Arg. vivo</hi> is not called <hi>Arg. vive</hi> of <hi>Mars,</hi> but <hi>Mercury</hi> of <hi>Antimony;</hi> for <hi>Antimony</hi> is fuller of <hi>Mer<g ref="char:EOLhyphen"/>cury.</hi> That <hi>Arg. vive</hi> of <hi>Mars</hi> which is hid in this <hi>Mercury</hi> of <hi>Antimony,</hi> is <hi>Sol</hi> volatile; and this you may not only believe, but alſo ſee it with your Eyes, if you take a little of the <hi>Amal<g ref="char:EOLhyphen"/>gam</hi>
+                     <pb n="80" facs="tcp:34860:45"/> waſhed clean, and gently evaporate the <hi>Arg. vive</hi> from <hi>Lu<g ref="char:EOLhyphen"/>na,</hi> ſo remaineth the <hi>Aurum</hi> vo<g ref="char:EOLhyphen"/>latil, that is the <hi>Mercury</hi> of <hi>Mars,</hi> with the <hi>Luna,</hi> and tingeth the <hi>Luna</hi> into the higheſt colour of <hi>Sol;</hi> but ſeeing that this <hi>Sol</hi> is not fixt, the Fire driveth this Tincture from <hi>Luna.</hi> Here alſo is a point to be marked, that this <hi>Sol</hi> volatile, which tingeth <hi>Luna</hi> only into Gold, but not fixt; who underſtandeth the cauſe of this, is not ignorant of the Sophiſti<g ref="char:EOLhyphen"/>cations of the <hi>Alchymiſts,</hi> who would tinge <hi>Luna</hi> into <hi>Sol;</hi> for they underſtand that <hi>Mercury</hi> a<g ref="char:EOLhyphen"/>lone is the Tincture; but when it is changed into Metals, then it loſeth the power of Tinging, and if it were fixt, ſo is it a fine Metal, for Metals are nothing elſe than <hi>Mercury</hi> coagulated or fixed: But in this Work, how
+<pb n="81" facs="tcp:34860:45"/> 
+                     <hi>Mercury</hi> of <hi>Antimony</hi> tingeth <g ref="char:Moon">☽</g>, is a more ſubtil manual operation, he that will make it, muſt well know the fire; therefore look well thereto; I my ſelf have of<g ref="char:EOLhyphen"/>tentimes made it, and I have alſo oft failed.</p>
+                  <p>Now how the ☿ of ♂ ſhall be fixed into true ☉, and the ☿ of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> ſhall be tranſmuted from other Metals into this Nature, will I not hold from you; for in this operation every one ſeeth what the Metals are, who hath not his five ſenſes bewitched (I ſpeak of true coagulation, not ſophiſtical) and can mark that it is not poſſi<g ref="char:EOLhyphen"/>ble to make ☉ from ♀, or out of ♄ and ♃ Silver; ſo ſees he alſo very well that common ☿ will not be coagulated artificially; but the <hi>Arg. vive</hi> of Metals eaſily, which before hath been coagula<g ref="char:EOLhyphen"/>ted; yet not every ☿ coagulated,
+<pb n="82" facs="tcp:34860:46" rendition="simple:additions"/> but the ☿ alone of ♂; for in this ☿ of ♂ is found the nature of the laſt fixation; but in ♄ ♃ ♀ not: therefore cannot any man give them that which they have not from God and Nature: It trou<g ref="char:EOLhyphen"/>bleth me not that many Chymi<g ref="char:EOLhyphen"/>cal Books are written againſt the Truth, what the ſearcher of Al<g ref="char:EOLhyphen"/>chymy imagineth and under<g ref="char:EOLhyphen"/>ſtandeth in his Tranſmutations, is altogether another thing; there<g ref="char:EOLhyphen"/>fore can I write of this Sophiſtry, and ſpeak with <hi>Paracelſus, They which und<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rſtand Alchymy accord<g ref="char:EOLhyphen"/>ing to the l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tter, reap nothing but bare ſtraw:</hi> Now concerning the ☿ before mentioned, which is di<g ref="char:EOLhyphen"/>ſtilled from ☉, you ſhall know that it penetrateth the Metals, and divideth the Elements of the Metals, that is, ☿ and 🜍 from one another; common ☿ doth it not; it muſt then be acuated by
+<pb n="83" facs="tcp:34860:46" rendition="simple:additions"/> the ☿ of <hi>Antimony,</hi> and be chan<g ref="char:EOLhyphen"/>ged in his nature and eſſence, as now is declared to you in this o<g ref="char:EOLhyphen"/>peration; you ſhall alſo know that every Metal hath his peculi<g ref="char:EOLhyphen"/>ar operation, and is not reſolved as another, I will in an hour bring ☿ out of ♄, out of ♀ can I hard<g ref="char:EOLhyphen"/>ly do it in two Moneths; there<g ref="char:EOLhyphen"/>fore much lieth in the manual o<g ref="char:EOLhyphen"/>peration. The practice how it is performed with the ☿ of <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> muſt I here ſhew, for this cauſe that you may find the Gold which coming from ♂, lieth hid in the ☿ of <hi>Venus;</hi> that is it of which I have made mention; this ☉ is nothing elſe than the <hi>mer<g ref="char:EOLhyphen"/>curial</hi> ſpirit which is in ♂, as the Soul in man; but ſeeing this <hi>Sol</hi> is no more corporeal, as it was before in ♂, but through the <hi>mer<g ref="char:EOLhyphen"/>curial</hi> ſpirit of <hi>Antimony</hi> is made a ſpirit; it can no more be more
+<pb n="84" facs="tcp:34860:47" rendition="simple:additions"/> corporal but only by the Spirit of Salt of <hi>Venus.</hi> This Spirit is not the ☿ of <hi>Venus,</hi> alſo not his 🜍, but a middle betwixt both; when this middle cometh forth of <hi>Venus,</hi> then do his parts fall in pieces, that is, his ☿ and 🜍; the ☿ of <hi>Venus</hi> abideth in the ☿ of <hi>Antimony;</hi> the 🜍 muſt be waſh<g ref="char:EOLhyphen"/>ed from it, and is a Sulphureous gray Earth like Aſhes.</p>
+                  <p>Take <hi>l.</hi> 2. of the beſt <hi>Hungarian Vitriol,</hi> diſſolve it in common 🜄, ſet it it in a ſtrong Pot over the fire, and caſt half a handful of ſmall pieces of Iron therein, let them ſeeth therein half a quarter of an hour; then put away the water, and put to the Iron the ☿ which you have diſtilled from <g ref="char:Moon">☽</g>, ſo the <hi>Venus</hi> which the Iron had reduced from <hi>Vitr.</hi> amalgamateth it ſelf with the <hi>Arg. vive:</hi> waſh the Amalgam clean, that all the
+<pb n="85" facs="tcp:34860:47" rendition="simple:additions"/> pieces of Iron come from it; now when this Amalgam is wholly pure and clean, let it dry, and then put it into a Glaſs-Phial, ſet it in B. M. and let it ſtand there<g ref="char:EOLhyphen"/>in eight dayes, ſo will this Amal<g ref="char:EOLhyphen"/>gam be of a dark gray; then pour it out, and waſh it clean, as men are wont to do to waſh an Amal<g ref="char:EOLhyphen"/>gam in a Diſh. The powder which is waſh'd from the Amal<g ref="char:EOLhyphen"/>gam, put a part; put this Amal<g ref="char:EOLhyphen"/>gam again eight dayes in B. and then waſh it as before; this work muſt be reiterated thrice: But if you would reſolve all the ♀ in<g ref="char:EOLhyphen"/>to ☿ and 🜍, then muſt you do this ſo oft till that the Amalgam be made into pure <hi>Arg. vive;</hi> for it will not be done ſo quickly. When you have had this Amal<g ref="char:EOLhyphen"/>gam thrice in B. and thrice waſh<g ref="char:EOLhyphen"/>ed, then diſtill the <hi>Arg. vive</hi> from the ♀, as you drew it before from
+<pb n="86" facs="tcp:34860:48" rendition="simple:additions"/> 
+                     <g ref="char:Moon">☽</g>: This is called ☿ of ♀ for it it is no more ☿ vulgar, nor yet ☿ of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>, but through the ☿ of ♀ it is fermented and tranſmuted into the ☿ of ♀. This ☿ of ♀ is a won<g ref="char:EOLhyphen"/>derful ☿, as every one can try who ſhall uſe it in Chymical O<g ref="char:EOLhyphen"/>perations. The Precipitate alſo made of this ☿ is exceeding bright and wonderful in the eyes of Alchymiſts; but as bright as it is, it is a groſs poyſon in Phy<g ref="char:EOLhyphen"/>ſick; keep your ſelf from it, and let not his fine appearance de<g ref="char:EOLhyphen"/>ceive you. In this ☿ of ♀ is 🜔 out of ♂, which I have oft mentioned, yet hidden; it wanteth the frigi<g ref="char:EOLhyphen"/>dity of the Moon, by the which it ſhall be coagulated in the per<g ref="char:EOLhyphen"/>petual and firſt coagulation of <hi>Sol;</hi> and the proceſs of coagula<g ref="char:EOLhyphen"/>tion is thus:</p>
+                  <p>Take of the fine <g ref="char:Moon">☽</g> part 1. wherein is no Gold, of this <hi>Mer<g ref="char:EOLhyphen"/>cury</hi>
+                     <pb n="87" facs="tcp:34860:48" rendition="simple:additions"/> of <hi>Venus</hi> parts 4, make an Amalgam thereof, and that the Amalgam may the eaſier be ac<g ref="char:EOLhyphen"/>compliſhed, diſſolve the <hi>Luna</hi> in common <hi>aq. ſortis,</hi> and precipi<g ref="char:EOLhyphen"/>tate it with ♀, as it is commonly done, ſo falleth the <g ref="char:Moon">☽</g> to the bot<g ref="char:EOLhyphen"/>tom, and is a fine bright powder, which may eaſily by grinding be amalgamated with the <hi>Mercury</hi> of <hi>Venus;</hi> waſh this Amalgam till it be clean and bright, put it into a Phial, and let it ſtand 24 hours in B.M. boiling, then will it be as black as a Coal; take it out, grind it on a ſtone, and waſh it clean; this blackneſs is the Soul of ♂, which is drawn from the Spirit of <hi>Antimony,</hi> and in this laſt work is coagulated into <hi>Sol;</hi> with this <hi>Sol</hi> there are as yet <hi>Fa<g ref="char:EOLhyphen"/>ces</hi> of 🜍, which ſeparate them<g ref="char:EOLhyphen"/>ſelves from the <hi>Mercury</hi> of <hi>Venus</hi> through this coagulation; for the
+<pb n="88" facs="tcp:34860:49" rendition="simple:additions"/> 
+                     <hi>Mercury</hi> of <hi>Venus</hi> is alway<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> green in the Superficies, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Green ſhall be coagulated wi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Sol</hi> (other Copies ſay <hi>Luna</hi>) an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> being ſeparated from <hi>Arg. viv<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> ſhall be reduced into a body, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo is the Spirit of ♂ found; an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo you ſee what it was, and agai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, what is from him. Now who hath a deſire to take pains, he may try how much ☿ is in one pound of ♂, ſo much <hi>Sol</hi> ſhall he find therein, and not more, and he ſhall alſo ſee that more coſt go<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th to this work than the <hi>Sol</hi> is worth. The <hi>Arg. vive</hi> which is in other M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tals cannot be ſo coagulated into <hi>Sol;</hi> but it con<g ref="char:EOLhyphen"/>tinually remaineth living; the Reaſons have been ſhewn before. Thus is the <hi>Arg. vive</hi> vulgar acu<g ref="char:EOLhyphen"/>ated with the <hi>Mercury</hi> of <hi>Anti<g ref="char:EOLhyphen"/>mony,</hi> that it draweth all the <hi>Mercury</hi> from imperfect Metals,
+<pb n="89" facs="tcp:34860:49"/> and is tranſmuted by them into their Nature; as it cometh to paſs in ♀, have I here declared by the way of <hi>Sol</hi> out of ♂, which muſt be in this work for the pu<g ref="char:EOLhyphen"/>rifying of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan>; ſo have you alſo heard how this <hi>Sol</hi> is again ex<g ref="char:EOLhyphen"/>tracted out, and appeareth be<g ref="char:EOLhyphen"/>fore the eyes, otherwiſe you would not believe that the puri<g ref="char:EOLhyphen"/>fication of <hi>Antimony</hi> is done by the <hi>Sol</hi> in ♂.</p>
+                  <p>Now will I farther write to you what Medicine there is in common <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> afterward for a con<g ref="char:EOLhyphen"/>cluſion will I impart to you as to a Brother <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> what farther out of this Reg<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lus of <expan>
+                        <am>
+                           <g ref="char:antimony"/>
+                        </am>
+                        <ex>antimony</ex>
+                     </expan> can be made; for I dare not in truth boaſt, and ſay, that it is not un<g ref="char:EOLhyphen"/>known to me, and I will write to you for a warning (if God give you his Grace that you can un<g ref="char:EOLhyphen"/>derſtand) what it is that ſeduceth
+<pb n="90" facs="tcp:34860:50"/> ſo many people, yea even the Learned; and captivated them, and brought them even to their Grave.</p>
+                  <div type="section">
+                     <head>De Sulphure <hi>Antimonii.</hi>
+                     </head>
+                     <p>Now concerning the other part of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, that is his 🜍, you ſhall know that it is a fatneſs, and aſſimulateth it ſelf to the Fire which is in a black Coal. There<g ref="char:EOLhyphen"/>fore take the blackneſs which you have waſhen from the <hi>A<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lgam</hi> of <g ref="char:Moon">☽</g> and <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, dry it in the Sun, or otherwiſe in ſome gen<g ref="char:EOLhyphen"/>tle warmth; ſo ſhall you have a powder of a leaden colour, to the which, as yet, ſome <hi>Arg. vive</hi> vulgar doth cleave, abi<g ref="char:EOLhyphen"/>ding with it in the waſhing: So now if you can ſtifle this pow<g ref="char:EOLhyphen"/>der in a cloſe warmth, as Colliers make wood Coals, then will it
+<pb n="91" facs="tcp:34860:50"/> be black, and altogether like beaten or powdered Coals: but if you cannot ſo ſtifle it, it's no great matter.</p>
+                     <p>Take this powder of a lead colour, put it into a Crucible, put it on the Fire, but make it not to glow, either inwardly or outwardly; ſo will the <hi>Mer<g ref="char:EOLhyphen"/>cury</hi> fume away: This powder is inflamed by the warmth, and burneth not as 🜍 with a flame, but as a glimmering dry coal, which giveth no flame: When it is ſo burnt out, there remain<g ref="char:EOLhyphen"/>eth in the Crucible a pow<g ref="char:EOLhyphen"/>der, which may be reduced into <hi>Regulus:</hi> Weigh this powder, ſo ſhall you ſee how much of the <hi>Antimony</hi> is reſolved into his parts, and if you could dry up this powder that it be black, and the Common <hi>Mercury</hi> cometh from it, ſo may you reckon how
+<pb n="92" facs="tcp:34860:51"/> much of the Common <hi>Mercury</hi> is come into this <hi>Mercury</hi> of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>; and how much of combuſtible 🜍 was in this <hi>Arg. vive:</hi> So then you have the knowledge of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> fully; that is, his Element of <hi>Arg. vive</hi> and 🜍. This is enough to ſhew what <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> is, and how the Common <hi>Arg. vive</hi> is fermented and acuated through and with it; that it thereby can reſolve the other Metals, every one ac<g ref="char:EOLhyphen"/>cording to his nature and diſpo<g ref="char:EOLhyphen"/>ſition: How it is done in ♀, the proceſs is ſufficiently declared for example ſake: But how it is to be done in other Metals, <hi>viz.</hi> how by the ☿ of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, a ☿ may be brought forth, that commit I to the experienc'd and skill'd in the Fire: For it was not my purpoſe to manifeſt all things.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="93" facs="tcp:34860:51" rendition="simple:additions"/>
+                     <head>The Medicinal ſweet <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>.</head>
+                     <p>It's known to you before to prepare many ways <hi>Antimony</hi> for Phyſick, but I have not as yet ſeen any who have obſerved the <hi>Arcanum</hi> in it: The good peo<g ref="char:EOLhyphen"/>ple imagine that whatſoever is written of <hi>Antimony</hi> is written of Common <hi>Antimony,</hi> which notwithſtanding they find not by the proof; therefore we may juſtly think, that the Medicinal <hi>Antimony</hi> is much another thing, as indeed it is; for the <hi>Antimony</hi> of the Philoſophers is their <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> and in it are all Medicines <hi>in potentia,</hi> therefore it is called <hi>Quinteſſence.</hi> In the Vulgar <hi>An<g ref="char:EOLhyphen"/>timony</hi> is not the Quinteſſence of Phyſick, but only the Eſ<g ref="char:EOLhyphen"/>ſence of the Element of water, which Eſſence is a Medicine a<g ref="char:EOLhyphen"/>gainſt
+<pb n="94" facs="tcp:34860:52" rendition="simple:additions"/> the Sickneſſes which ſpring out of the <hi>microcoſmical</hi> Fire: Now the Phyſick of this <hi>Anti<g ref="char:EOLhyphen"/>mony</hi> is not in his <hi>Mercury,</hi> but in his Fire, of the which I have ſpoken briefly, which you ſhall in this manner underſtand; In wood there is a Fire which we muſt have in our Kitchens to prepare our Meats; ſo is <hi>Antimony</hi> a fire by which we digeſt our Medi<g ref="char:EOLhyphen"/>cines, which thereby receiveth the eſſence of his Elements, and through this Eſſence the elemen<g ref="char:EOLhyphen"/>tal heat in our ſickneſſes; for though the <hi>Galenists</hi> think to drive forth the heat through <hi>Pur<g ref="char:EOLhyphen"/>ſlane, Endive, Night-ſhade,</hi> and other cold Simples, but cannot do it, for the heat looſeth it ſelf naturally; ſo is this Medicinal nature in <hi>Antimony</hi> vulgar, and not only in it, but in all other things of the which the Element
+<pb n="95" facs="tcp:34860:52" rendition="simple:additions"/> of water is the Mother. There<g ref="char:EOLhyphen"/>fore is a Phyſician even ſo little bound to this <hi>Antimony</hi> as a Cook to Beech-wood; for when he hath it not, then he uſeth Birch or Willow, by the which he cannot ſo well dreſs his Meat. Beſides this Eſſential Medicine as well in o<g ref="char:EOLhyphen"/>ther things as in <hi>Antimony,</hi> and it is called in Magick <hi>Aurum;</hi> but of that Medicine which is prepared by the fire of <hi>Antimony,</hi> I have nothing to ſay; it is known of to God, and to thoſe he hath manifeſted it: The wiſe men called it <hi>Mercurius Philoſophor.</hi> and it is an Eſſence which may be changed in all the Elements of Nature and Art; for we know that this <hi>Antimony</hi> purgeth ſtrongly upward and downward, which is done not by the Eſſence, but by the body to the which the Eſſence changeth. Now who
+<pb n="96" facs="tcp:34860:53" rendition="simple:additions"/> can divide the Eſſence from the Body, he hath found a Medicine that worketh neither upward nor downward, but without purga<g ref="char:EOLhyphen"/>tion finiſheth the work, and though through a ſtrong Calci<g ref="char:EOLhyphen"/>nation with Salt Spirit, which is the cauſe of a Metalline Fuſion, it be driven from it, that it cau<g ref="char:EOLhyphen"/>ſeth neither Vomit nor Stool, but forcèth ſweat; yet it is not the Medicine, but <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> calcined, which is a poyſon as the other Metals are which are ſtrongly calcined, which taken in the Body, mani<g ref="char:EOLhyphen"/>feſts it as calcined ♀ ♄ ♂. It may alſo be well digeſted by 🜍 Me<g ref="char:EOLhyphen"/>talline, that it may be red and fixed in the fire, yet is there not in it what the Artiſt ſeeketh; therefore all is loſt which is be<g ref="char:EOLhyphen"/>gun with this Medicine: there is then a thing which divideth his Eſſence from his Body, and is to</p>
+                     <gap reason="illegible: missing" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </div>
+                  <div type="section">
+                     <pb n="97" facs="tcp:34860:53" rendition="simple:additions"/>
+                     <head>Of the Secrets in <hi>Regulus.</hi>
+                     </head>
+                     <p>Farther, of divers <hi>Arcana's</hi> which are in the above-mention<g ref="char:EOLhyphen"/>ed <hi>Regulus,</hi> I have wonders to tell you; he which hath not throughly ſearched it will not believe me; for God lets not ſuch things be common, and come forth publickly, eſpecially in theſe baſe times, in the which Honour and Shame, Virtue and Vice, Lying and Truth are e<g ref="char:EOLhyphen"/>qually prized: Now we ſeek not the Truth, but Vain-glory; and therefore doth God infatu<g ref="char:EOLhyphen"/>tuate our Senſes, and we hate and envy one another, and deſtroy our wealth, and we our ſelves are the cauſe thereof: Farther, I warn you, that I have diſcove<g ref="char:EOLhyphen"/>red much, and from my writing you may underſtand more than
+<pb n="98" facs="tcp:34860:54"/> I ſay, but all things ſhall not be written by reaſon of Praters and Sophiſters, which flatter them<g ref="char:EOLhyphen"/>ſelves that they have been of the Council of <hi>Jove.</hi> I will alſo by this ſhew forth my mind to you, and I wiſh you well from my heart, that you may try in theſe things as much as my ſelf, and I hope that time will give that which now I cannot, and in time know what I mean. Now that I may keep my promiſe, you ſhall know that this <hi>Regulus</hi> hath deceived the beſt Philoſophers and Chymiſts of greateſt account and reading amongſt us; for it is ſuch a rare Mineral that there is ſcarce the like in the world, and can make even the moſt Learned and underſtanding men Fools. What is given me from it, what I have ſeen from my good Com<g ref="char:EOLhyphen"/>panions mark. In my little Book
+<pb n="99" facs="tcp:34860:54"/> concerning the <hi>Myſteries of An<g ref="char:EOLhyphen"/>timony</hi> which no man underſtand<g ref="char:EOLhyphen"/>eth even to this hour, have I ſaid that Metal might be made out of it. So much belongeth to this point, I did not then much cumber or trouble my ſelf with it, but only explained my ſelf, and manifeſted the Medicines which are in it, and go under its name; but now know that out of this Regulus all Metals may be made, as Lead, Tin, Cop<g ref="char:EOLhyphen"/>per, Iron, Silver and <hi>Sol,</hi> and ſo made, that to the appearance and in hammering, melting, caſting proof of the Teſt, and in the driving by <hi>Antimony,</hi> they are as good as the natural Metals. Lead which is made thereof is in all proofs good Lead, only it is a little harder than the Natural; but the Lead which is made of <hi>Antimony</hi> crude, not waſhed, hath
+<pb n="100" facs="tcp:34860:55"/> not that hardneſs; the Tin is ex<g ref="char:EOLhyphen"/>ceeding fine, and before coagula<g ref="char:EOLhyphen"/>tion, on the Touchſtone ſo cer<g ref="char:EOLhyphen"/>tain as the fineſt <g ref="char:Moon">☽</g> the Nature of Tin eaſily taketh it to its ſelf, and is eaſily made Tin.</p>
+                     <p>With the Copper it is thus al<g ref="char:EOLhyphen"/>ſo; for ſo ſoon as the Odour of <hi>Venus</hi> is vegetant, it penetrateth the Regulus, and giveth it the Nature of Copper; this opera<g ref="char:EOLhyphen"/>tion is done very quickly: I can make an ounce of Regulus into Copper in the time you can eat a ſoft Egg.</p>
+                     <p>Iron and <hi>Antimony</hi> are eaſily changed one into another, there<g ref="char:EOLhyphen"/>fore is <hi>Antimony</hi> preſently ♂, and out of ♂ is <hi>Antimony</hi> eaſily made, and alſo ♄ ♃ &amp; ♀ may eaſily be re<g ref="char:EOLhyphen"/>duced into <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, yet ♂ eaſieſt of all. Theſe four Metals I my ſelf have out of Regulus; the other two <hi>viz.</hi> ☉ &amp; <g ref="char:Moon">☽</g> have I ſeen my Friend
+<pb n="101" facs="tcp:34860:55"/> make. The <g ref="char:Moon">☽</g> is bright, and may be caſt, hammered and beaten, as other natural <g ref="char:Moon">☽</g>, and may be driven off in ♄, and goeth not a<g ref="char:EOLhyphen"/>way from the Teſt; I thought a long time that it was nothing elſe but the beſt <g ref="char:Moon">☽</g>; but my Compa<g ref="char:EOLhyphen"/>nion ſaid that in weight it was heavier than other <g ref="char:Moon">☽</g>, I therefore being jealous what it was, did endeavour to diſſolv it in <hi>aq. fort.</hi> made of <hi>Vitriol</hi> and <hi>Nitre,</hi> but it would not touch it; then I was much troubled in my thoughts, and laid it in an <hi>aq. Regis,</hi> and it diſſolved totally, then I thought that in the reduction it would be <hi>Sol;</hi> but I found a white Pow<g ref="char:EOLhyphen"/>der very like to Tin, which is cal<g ref="char:EOLhyphen"/>cined in <hi>aq. fortis;</hi> when I redu<g ref="char:EOLhyphen"/>ced this powder, there was there<g ref="char:EOLhyphen"/>out a Glaſs of a Milkie colour, ſo found I what I had for good <g ref="char:Moon">☽</g>; nevertheleſs I was not content
+<pb n="102" facs="tcp:34860:56"/> with theſe proofs, hoping better things, and therefore I took four Ounces of this <g ref="char:Moon">☽</g>, and amalgama<g ref="char:EOLhyphen"/>ted it with common ☿, and did ſet it in a gentle heat four weeks, and it was in the Superficies black and indifferent hard; I took it out, and did beat it to pieces with a hammer, and then did grind it to powder, and af<g ref="char:EOLhyphen"/>terward by oft rubbing I made it into an Amalgam again as it was before, then drew I the ☿ away in a Retort, and found my <g ref="char:Moon">☽</g> a<g ref="char:EOLhyphen"/>gain; this <g ref="char:Moon">☽</g> I amalgamated a<g ref="char:EOLhyphen"/>gain, not with common ☿, but with ☿ of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, of the which I have ſpoken before.</p>
+                     <p>This Amalgam did I ſet as be<g ref="char:EOLhyphen"/>fore three days and nights, and found that the Amalgam the lon<g ref="char:EOLhyphen"/>ger it ſtood the moiſter it was; in eight dayes it was as melted ♄, and ſo it ſtood in the fire a
+<pb n="103" facs="tcp:34860:56"/> moneth, afterwards I took it out, and diſtilled it by Retort, and the <hi>Mercury</hi> of <hi>Antimony,</hi> and the <g ref="char:Moon">☽</g> came all from the Retort, and were a <hi>Mercury;</hi> ſo know I that the <g ref="char:Moon">☽</g> made of Regulus was nothing elſe than <hi>Mercury</hi> coa<g ref="char:EOLhyphen"/>gulated, and not conſtant in a Metalline form, but goeth away again, and will be <hi>Mercury,</hi> which thing might well make a Chymiſt a Fool. Now come I to ☉, and to tell you what happened to me is a wonder; when I had ſhew<g ref="char:EOLhyphen"/>ed to my good Companion, who thought nothing elſe than that he had got a great prize, he would not believe it, but took it into his own hands, and at length found the truth, and began to queſtion his ☉, and he ſpake, al<g ref="char:EOLhyphen"/>though I have oftentimes tried it, yet will not I truſt my ſelf, but take this half ounce of Gold and
+<pb n="104" facs="tcp:34860:57"/> try it as you pleaſe. Mr. <hi>Hans</hi> the Goldſmith ſaith it is true Gold. So took I the ☉ and brought it to the Goldſmith, and asked him if it were Gold, he ſaid it was, and he could work it for ☉; for to the Sight, Touchſtone and Hammer it was very good ☉. Neverthe<g ref="char:EOLhyphen"/>leſs I took the ☉ and did put to it 2 ℥ of <g ref="char:Moon">☽</g> to granulate and divide it in <hi>aq. fort.</hi> the <g ref="char:Moon">☽</g> diſſolved it ſelf, the ☉ fell to the bottom; this proof was true; this <hi>Sol</hi> powder I mixed with <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> crude, and caſt it through <hi>Regulus;</hi> let it flow in a Crucible and caſt <hi>Nitre</hi> upon it, and drew the <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> from the <hi>Sol,</hi> and drew it off with ♄, this trial I found it alſo true. This <hi>Sol</hi> driven off did I caſt again through, with <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> and 🜍; then took I the <hi>Regulus</hi> and let them go a<g ref="char:EOLhyphen"/>way before the Goldſmiths Bel<g ref="char:EOLhyphen"/>lows, for I had none; this trial
+<pb n="105" facs="tcp:34860:57"/> the <hi>Sol</hi> ſtood alſo, on which eve<g ref="char:EOLhyphen"/>ry Chymiſt may juſtly rejoice.</p>
+                     <p>Nevertheleſs ſeeing the <hi>Luna</hi> had deceived me, therefore could I not truſt the <hi>Sol,</hi> but cauſeth it to be beaten thin, and amalga<g ref="char:EOLhyphen"/>mated it with my ☿ of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, and did ſet it four Weeks in a gentle warmth, and took notice that the Amalgam was not hard, but ſoft, which was grievous to me; ne<g ref="char:EOLhyphen"/>vertheleſs I did let it ſtand four weeks, and found my Amalgam much moiſter than when I put it in; then did I put it into a Cru<g ref="char:EOLhyphen"/>cible over a ſmall fire, that the Crucible did not fully glow, and my ☿ flew away incredible ſwift<g ref="char:EOLhyphen"/>ly from the ☉ that I did not mark it, but thought that my ☿ was coagulated into ☉, but when I weighed my ☉, I found no more than half an Ounce &amp;<note n="*" place="margin">2 <hi>drams.</hi>
+                        </note> 2 Quin<g ref="char:EOLhyphen"/>tileins, and thought certainly
+<pb n="106" facs="tcp:34860:58"/> that the two Quintileins were pure Gold.</p>
+                     <p>Theſe two Quintileins I pro<g ref="char:EOLhyphen"/>ved farther with ☿ of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> in the ſame manner as at the firſt time; then at length I evaporated the <hi>Mercury</hi> from it, and found my two Quintileins again; then was I merry, and hoped that my Companion would communicate his Preparation to me, and I had Golden Mountains in my head, and I brought a good Meſſage to my Companion; but he himſelf was not merry, but ſpake evil of it. <hi>Well,</hi> ſaid he, <hi>I have had great labour and pains with this</hi> ☉, <hi>and more than I do ſay: What cannot be that cannot I deſire: But let it be a fine ſophiſtication that which hath been made, for the Gold-ſeeking Alchymiſts which run hither and thither, to day devour<g ref="char:EOLhyphen"/>ing one to morrow another. The
+<pb n="107" facs="tcp:34860:58"/> Gold which remaineth over and a<g ref="char:EOLhyphen"/>bove to thee is not come from the Regulus, but is a Compoſition of the Natural ☉; for I could not co<g ref="char:EOLhyphen"/>agulate the</hi> Regulus <hi>into</hi> ☉ <hi>if there be not good Gold with it; this Sol hath remained in the Teſt, but the other not, I know not how to bring it farther; and now understand the cauſe well, that that cannot be that I hoped.</hi> This fell into the mind of my Companion, and I feared the manual operation and thought of my Metals. He ſpake that the 🜍 of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> which coagula<g ref="char:EOLhyphen"/>teth the <hi>Mercury</hi> is not united to it <hi>in radice,</hi> and therefore re<g ref="char:EOLhyphen"/>maineth not with it, and if thou ſearcheſt throughly, thy Regulus will not be again ♄ ♃ ♀ ♂ and re<g ref="char:EOLhyphen"/>main ſo, but will be <hi>Mercury</hi> a<g ref="char:EOLhyphen"/>gain, which neither you nor any other can coagulate to a good Metal, as ſome imagine, when
+<pb n="108" facs="tcp:34860:59"/> they have the ☿ of ☉ <g ref="char:Moon">☽</g> ♄, that the Art will not fail then; but it is a Lunatick Melancholick Phanta<g ref="char:EOLhyphen"/>ſie, from the which they that are not experienced in Alchymy, but only Book-learned, and have gone on hear-ſay, can make Ar<g ref="char:EOLhyphen"/>guments, and conclude by them<g ref="char:EOLhyphen"/>ſelves, but when they come to the fire they ſee their Folly. Tell me when a dead thing is made li<g ref="char:EOLhyphen"/>ving. When is his bound of Na<g ref="char:EOLhyphen"/>ture, in Death or in Life? What hath it been before death or life? Shall any come to this immutable ſixt principle? what ſeekeſt thou then in Metals vivified? But theſe things ſpeak I not to thee, nor of thee, but of the <hi>Alchymiſts,</hi> for whom pray God that he deli<g ref="char:EOLhyphen"/>ver them from ſuch unreaſonable men.</p>
+                     <p>Of this ſort diſcourſed we much together, and ſeeing I then
+<pb n="109" facs="tcp:34860:59"/> was not ſo intangled, as to hold the printed Books of <hi>Alchymy</hi> for Goſpels; but being led with I know not what Spirit, I doubted more than believed, therefore I alwayes did think of the cauſe wherefore <hi>Alchymy</hi> was written by the firſt Philoſophers, and did very often treat with this my good Friend and Companion, well skilled in the Fire, concern<g ref="char:EOLhyphen"/>ing our <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> ♄ ♃ ♀ ♂ ☉ &amp; <g ref="char:Moon">☽</g>, in all which I found that true which the <hi>Chy<g ref="char:EOLhyphen"/>miſts</hi> put together for the <hi>Alchy<g ref="char:EOLhyphen"/>mical</hi> Art, and am in good hope that he will put from him this phantaſie, and think after the Philoſophical Metals. Now ſo much as belongeth to you, Noble Patron and Friend, there is as yet one thing to be handled per<g ref="char:EOLhyphen"/>taining to this operation, which I neither can nor will hold from you the <hi>Chymiſts,</hi> as <hi>Rhafis, Peter
+<pb n="110" facs="tcp:34860:60"/> Bonus, Ferrar. Treviſan,</hi> and the o<g ref="char:EOLhyphen"/>ther of the Dialogue, and ma<g ref="char:EOLhyphen"/>ny other who have well examin<g ref="char:EOLhyphen"/>ed theſe imperfect Metals, and had good experience, they at length remain in this opinion that it is impoſſible to make <hi>Sol</hi> by Art, but out of <hi>Arg. vive.</hi> Seeing they ſee that <hi>Sol</hi> is nothing elſe than <hi>Arg. vive</hi> coagulated with its proper 🜍 and fixed, now have they alſo well underſtood by their operations, that <hi>Mercury</hi> cannot be fixed into perfect <hi>Sol,</hi> unleſs <hi>Sol</hi> be diſſolved and brought in<g ref="char:EOLhyphen"/>to <hi>Mercury;</hi> this opinion have they taken from this ground, that they ſee that Nature could not fix that <hi>Arg. vive</hi> of ♄ ♃ ♀ with the external 🜍 which cleaveth unto them; much leſs ſhall Art do it; whereupon they thought to take an <hi>Arg. vive</hi> which hath been perfectly fixed before, and
+<pb n="111" facs="tcp:34860:60" rendition="simple:additions"/> to mix this <hi>Arg.</hi> vive with com<g ref="char:EOLhyphen"/>mon <hi>Mercury,</hi> or other Metals, that both may be one <hi>Individu<g ref="char:EOLhyphen"/>um;</hi> but ſeeing this mixture can<g ref="char:EOLhyphen"/>not be done with common <hi>Sol,</hi> they have taken the <hi>Sol</hi> in <hi>Mars,</hi> and have thought to mix it ſo with the common <hi>Mercury</hi> that they ſhould never be ſeparated, but that the <hi>Sol</hi> ſhould alwayes remain with the <hi>Mercury,</hi> and the <hi>Mercury</hi> with <hi>Sol,</hi> that is, where the <hi>Sol</hi> is coagulated again, and alſo the <hi>Mercury</hi> is co<g ref="char:EOLhyphen"/>agulated and fixed: in this pra<g ref="char:EOLhyphen"/>ctiſe every one hath had his way of working, according to his un<g ref="char:EOLhyphen"/>derſtanding, and have ſpent long time herein; but thus much is certain to me, that they alwayes died ere they obtained the end of their ſpeculation. Therefore ſaith the worthy <hi>Trithemius,</hi> That <hi>Alchymy</hi> is a perpetual Virgin,
+<pb n="112" facs="tcp:34860:61"/> and writeth of it thus, Chymia <hi>is beloved by many, and yet ſhe is chast; ſhe hath many domestick ſervants, which keep their Miſtreſs with watchful Eyes, and oft take upon themſelves her name, that they may preſerve her from the em<g ref="char:EOLhyphen"/>bracements of ſo many importu<g ref="char:EOLhyphen"/>nate Lovers, and always unpollu<g ref="char:EOLhyphen"/>ted: Vanity, fraud, deceipt, ſo<g ref="char:EOLhyphen"/>phiſtication, covetouſneſs, falſeneſs, boldneſs, lying, fooliſhneſs, pover<g ref="char:EOLhyphen"/>ty, deſparation, proſcription, cheat<g ref="char:EOLhyphen"/>ing, are the Lacqueys of Chymistry; who feigning themſelves to be the Mistreſs, that they may keep her unraviſhed, do freely proſtitute themſelves to rich, covetous, world<g ref="char:EOLhyphen"/>ly and proud Lovers:</hi> Thus much. He that will not believe this true Man, may ſearch and try accord<g ref="char:EOLhyphen"/>ing to his fantaſie, as I and o<g ref="char:EOLhyphen"/>thers have ſufficiently done: What I have told you here,
+<pb n="113" facs="tcp:34860:61"/> cometh from experience that it is ſo; who hath a deſire to ſpend his Money and Time thereon, he ſhall alſo find it ſo.</p>
+                     <p>Thus have I finiſhed what I promiſed to write of the ☿ of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, and alſo what the Ancients have ſought and found in this ☿ of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, all which I have truly declared; on which you may conclude whe<g ref="char:EOLhyphen"/>ther this Mineral is known to me or not: They which boaſt that they can make the ☿ of Metals without <hi>Arg. vive,</hi> they give us to underſtand that they are not Philoſophers, and that they know not what Corruption, Regenera<g ref="char:EOLhyphen"/>tion and the Multiplication of things is, and if they did rightly behold their work, they would ſee that they are deceived: Let Boaſters be Boaſters; believe in theſe things nothing but what your eyes ſee, and conſider al<g ref="char:EOLhyphen"/>wayes
+<pb n="114" facs="tcp:34860:62"/> the poſſibility of Nature, ſo ſhall you eaſily come out of this Laby<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inth.</p>
+                     <p>Laſtly, I deſire you that you would not be offended that I have held you ſo long with this Treatiſe; the condition which at preſent I ſuffer, permits little reſt to write of this Operation; therefore have I caſt it on the Pa<g ref="char:EOLhyphen"/>per ſo miſerably; when I have more leiſure, I will finiſh other Writings, which as yet for want of opportunity I cannot. The Alchymiſts everlaſting God illu<g ref="char:EOLhyphen"/>minate the Lovers of Truth with his Spirit, and bring them out of the Bonds of thick darkneſs and unprofitable Talk of ſuppoſed Learned men, <hi>Amen.</hi>
+                     </p>
+                  </div>
+                  <div type="addition">
+                     <pb n="115" facs="tcp:34860:62"/>
+                     <head>ADDITION OUT OF THE <hi>HALIGRAPHIA</hi> OF <hi>BASIL VALENTINE. How to make the Salt of</hi> An<g ref="char:EOLhyphen"/>timony.</head>
+                     <p>POwder good <hi>Hungarian</hi> An<g ref="char:EOLhyphen"/>timony ſmall as Meal, and calcine it over a gentle Cole-fire, as men uſually do, alwaies ſtir<g ref="char:EOLhyphen"/>ring it with an Iron till all be whi<g ref="char:EOLhyphen"/>tiſh, and it ſmoke no more, but at length endureth an indifferent ſtrong Fire; then put it into a Crucible, and melt it into a tranſparent Yellow Glaſs; beat this Glaſs ſmall, put it into a
+<pb n="116" facs="tcp:34860:63"/> retort Glaſs, and pour on it ſtrong diſtilled Wine vin. let it ſtand in a gentle warmth, and the Vinegar will extract the tincture of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, and will be coloured very high, which Tincture or extract of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> may be farther prepared, and may be u<g ref="char:EOLhyphen"/>ſed for an excellent Medicine. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Baſ. Val. Trium mag.</hi>
+                     </p>
+                     <p>Now when the Tincture is all extracted, and coloureth no more the Vinegar, then dry the Pow<g ref="char:EOLhyphen"/>der at the bottom wholly, which will be black, grind it with ſo much yellow 🜍, put it into a melting-pot well luted, and put it into an indifferent Fire till the 🜍 be wholly burnt away, then grind the matter remaining very ſmall, and pour on it new diſtil<g ref="char:EOLhyphen"/>led Vinegar and draw the Salt thereby, and afterward through reiterated diſtillations draw off the eagerneſs of the Vinegar
+<pb n="117" facs="tcp:34860:63"/> from it, and clarifie the Salt with the Spirit of Wine till it be bright, clear and white, if thou haſt wrought rightly, thou haſt the Salt of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan> wholly fixt &amp; active, although there is another way to make the Salt of <expan>
+                           <am>
+                              <g ref="char:antimony"/>
+                           </am>
+                           <ex>antimony</ex>
+                        </expan>, which is writte elſewhere, <hi>Doſ.</hi> 4 <hi>gr.</hi> it is equal to the Salt of ☉, and cu<g ref="char:EOLhyphen"/>reth all Diſeaſes, it may eaſily be made <hi>Sol.</hi>
+                     </p>
+                     <div type="application">
+                        <pb n="118" facs="tcp:34860:64"/>
+                        <head>THE USE OF THE <hi>Salt</hi> of <hi>ANTIMONY.</hi>
+                        </head>
+                        <p>THis Salt of <hi>Antimony</hi> is of a wonderful operation; for it performs almoſt all that the Salt of Gold doth, given in like quan<g ref="char:EOLhyphen"/>tity; it cleanſeth the whole body of man, purifieth the Bloud, ex<g ref="char:EOLhyphen"/>pels all Evils, conſumes all ob<g ref="char:EOLhyphen"/>noxious Humours, whence all open Sores have their beginning and recourſe to; it cures the
+<pb n="119" facs="tcp:34860:64"/> 
+                           <hi>French Pox,</hi> taken four gr. at the moſt with a dram of the di<g ref="char:EOLhyphen"/>ſtilled water of <hi>Lignum Vitae,</hi> ſweating upon it, and this uſed daily till amendment.</p>
+                        <p>The water of <hi>Lignum Vitae</hi> is thus made; Firſt, Grind it ſmall, then moiſten it with good Spirit of Wine in a Veſſel cloſe ſtopt; let it ſtand certain days in a gen<g ref="char:EOLhyphen"/>tle heat; this done, pour a good quantity of <hi>Fumitory</hi> water, or <hi>Scabious</hi> water upon it; digeſt them 14 days in a Bath, then di<g ref="char:EOLhyphen"/>ſtill it; reſerve the Liquor apart, and the Oyl apart in Glaſſes cloſe ſtopt; uſe the Water with the Salt of <hi>Antimony.</hi> It is likewiſe uſed with good ſucceſs in other Diſeaſes, whereof we treated in another place; but an under<g ref="char:EOLhyphen"/>ſtanding Phyſician knows very well what Virtues are in <hi>Guia<g ref="char:EOLhyphen"/>cum,</hi> and what benefit it doth in
+<pb n="120" facs="tcp:34860:65"/> the cure of diſeaſes. There are other ways to diſtil a Water and Oyl of the ſaid Wood, which is needleſs here to be mentioned.</p>
+                        <p>The Salt of <hi>Antimony</hi> checks the <hi>Leproſie,</hi> and other deep root<g ref="char:EOLhyphen"/>ed Diſeaſes; it is good againſt the <hi>Gout,</hi> and weakneſs of the Joints, purifies and makes good bloud, corroborates the Heart, and the Balſam of mans Body, drunk with a ſpoonful of <hi>Aqua vi<g ref="char:EOLhyphen"/>tae;</hi> it reſtoreth loſt ſtrength, o<g ref="char:EOLhyphen"/>pens all internal Impoſthumes, clenſes all external corroding old Sores, being ſtrewed into them, or duly applied with good and convenient Plaiſters or Oint<g ref="char:EOLhyphen"/>ments, Being diſſolved in good diſtilled Wine Vinegar, it doth in a ſhort time bring great eaſe to evil and incurable Sores to all Admiration. Being drunk with waters of <hi>Wormwood</hi> or <hi>Carduus
+<pb n="121" facs="tcp:34860:65"/> Benedictus,</hi> it cures all Agues of long ſtanding, which are deeply rooted, and admit no Cure, eſpe<g ref="char:EOLhyphen"/>cially the quartane; being drunk with <hi>Mint</hi> or <hi>Wormwood</hi>-water, it cauſeth good Digeſtion; drunk with waters of <hi>Speedwel,</hi> Red <hi>Corn-Roſe</hi>-water cauſeth a good Memory.</p>
+                        <p>This Salt is uſed in <hi>Alchymy</hi> or Tranſmutation of Metals into GoId, if you add to it the fat<g ref="char:EOLhyphen"/>neſs which drops out of the Wheels of the Chariot of the Sun whenas the <hi>Alchymiſts Phaeton</hi> undertook to drive it, as the Po<g ref="char:EOLhyphen"/>ets deſcribe it in their Alchymi<g ref="char:EOLhyphen"/>ſtical Fiction. For the excellent Fictions of the Poets which they produce and write concerning the Celeſtial Gods, are nothing elſe but Covers to conceal the ſe<g ref="char:EOLhyphen"/>cret Arts and Myſteries of <hi>Alchy<g ref="char:EOLhyphen"/>my;</hi> as of <hi>Apollo,</hi> when he ſlew
+<pb n="122" facs="tcp:34860:66"/> the Serpent <hi>Python;</hi> as alſo the Adultery of <hi>Mars</hi> and <hi>Venus;</hi> and it ſhall be proved, as I am of the opinion, that Chymical Ope<g ref="char:EOLhyphen"/>rations are revealed in Poetical Fictions when they wrote of the Loves and Venereal Actions of the Gods and Goddeſſes; as alſo when they introduce various and wonderful Metamorphoſes and Tranſmutations; for if we ſhould underſtand their Fables literally, we ſhould prejudice wiſe Anti<g ref="char:EOLhyphen"/>quity, to think that ſuch under<g ref="char:EOLhyphen"/>ſtanding and wiſe perſons ſhould believe, teach and write ſuch and ſo many wicked things of their Gods.</p>
+                     </div>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="publishers_advertisement">
+                  <pb facs="tcp:34860:66"/>
+                  <head>Theſe BOOKS are to be ſold by <hi>Moſes Pitt</hi> at the <hi>White Hart</hi> in <hi>Little Britain.</hi>
+                  </head>
+                  <head type="sub">Folio.</head>
+                  <list>
+                     <item>
+                        <hi>CAſſandra,</hi> the fam'd Ro<g ref="char:EOLhyphen"/>mance, 1667.</item>
+                     <item>
+                        <hi>Brigg's</hi> Logarithms.</item>
+                     <item>
+                        <hi>Franciſci Suarez</hi> Metaphyſica. 4<hi rend="sup">o</hi>.</item>
+                     <item>Dr. <hi>John Pell's</hi> Introduction to <hi>Algebra,</hi> 1668.</item>
+                     <item>
+                        <hi>Nich. Mercatoris</hi> Logrithmo-Technia, ſive Methodus con<g ref="char:EOLhyphen"/>ſtruend; Logarithmos, 1668.</item>
+                     <item>
+                        <hi>Jacobi Gregorii</hi> Exercitationes Geometricae, 1668.</item>
+                     <item>Dr. <hi>Joh. Wallis,</hi> Opera Mechani<g ref="char:EOLhyphen"/>ca, pars 1, &amp; 2, 1670.</item>
+                     <item>
+                        <hi>Banister's</hi> works.</item>
+                     <item>
+                        <hi>Hugh Broughton's</hi> Conſent of Scripture.</item>
+                     <item>
+                        <hi>Snellii</hi>
+                        <list>
+                           <item>Typhis Batavus, <hi>Lugd. Bat.</hi> 1624.</item>
+                           <item>Obſervat. Haſſiacae.</item>
+                        </list>
+                        <pb facs="tcp:34860:67"/> 8<hi rend="sup">o</hi>.</item>
+                     <item>
+                        <hi>Petrus Paaw,</hi> de oſſibus Amſt reod. 1633.</item>
+                     <item>
+                        <hi>Bthlia Hebraea,</hi> Joſephi Athia 1661.</item>
+                     <item>
+                        <hi>Gualieri Needh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m,</hi> Diſquiſitio A<g ref="char:EOLunhyphen"/>natomica De Formato Foet<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 1667.</item>
+                     <item>
+                        <hi>Buxtorfius</hi>'s Epitome of his <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLunhyphen"/>brew</hi> Grammar, tranſlated int<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Engliſh</hi> by <hi>John Davis,</hi> 1658.</item>
+                     <item>
+                        <hi>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rom,</hi> Scriptores in Scripturam <hi>Now in th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Preſs.</hi>
+                     </item>
+                     <item>The <hi>Fortunate Fool,</hi> 1670.</item>
+                     <item>A letter from a Gentleman <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the Lord <hi>Howards</hi> Retinue <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> his Friend in <hi>London,</hi> Dated <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Fox,</hi> Nov. 1669.</item>
+                     <item>A Diſcourſe in vindication <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>wles</hi> Syſteme, and Opin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>on concerning Brutes. Now i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the Preſs.</item>
+                     <item>The Adventures of Mr. <hi>T. S.</hi> a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <hi>Engliſh</hi> Merchant, taken Priſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>ner by the <hi>Turks</hi> of <hi>Argiers.</hi>
+                     </item>
+                     <item>
+                        <hi>Pharmacopoeia Lond.</hi> 24. 1668.</item>
+                  </list>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
